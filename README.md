@@ -1,0 +1,2 @@
+# stok_takip
+ 
